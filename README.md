@@ -15,7 +15,7 @@ This utility is a Python script designed to decrypt a multi-layered ciphertext g
 
 1.  Execute the script from your terminal:
     ```bash
-    python dcrpt1.py
+    python decrypt.py
     ```
 2.  The script will prompt you to paste the intercepted ciphertext:
     ```
